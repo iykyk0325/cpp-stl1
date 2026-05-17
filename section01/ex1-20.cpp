@@ -34,8 +34,8 @@ public:
 
 int main()
 {
-    PointPtr p1 = new Point(2, 3); // 일반 포인터
-    PointPtr p2 = new Point(5, 5); // 스마트 포인터, 암시적 형변환 적용
+    PointPtr p1 = new Point(2, 3); // 메모리 할당
+    PointPtr p2 = new Point(5, 5); // 메모리 할당
 
     // p1->Print();
     // p2->Print();

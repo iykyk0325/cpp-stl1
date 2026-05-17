@@ -1,0 +1,23 @@
+/*
+    예제 6-27. deque의 push_back 멤버 함수
+*/
+#include <deque>
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    deque<int> dq;
+
+    for (deque<int>::size_type i = 0; i < 10; i++) {
+        dq.push_back((i + 1) * 10);
+    }
+
+    for (deque<int>::size_type i = 0; i < dq.size(); i++) {
+        cout << dq[i] << " ";
+    }
+    cout << endl;
+
+    return 0;
+}

@@ -1,0 +1,36 @@
+Language: Cpp
+BasedOnStyle: LLVM
+
+# Indentation
+UseTab: Never
+IndentWidth: 4
+TabWidth: 4
+
+# Access / spacing
+AccessModifierOffset: -4
+PointerAlignment: Right
+ReferenceAlignment: Left
+SpaceAroundPointerQualifiers: Before
+NamespaceIndentation: All
+
+# Template / constructor formatting
+BreakTemplateDeclarations: Yes
+PackConstructorInitializers: Never
+BreakConstructorInitializers: BeforeColon
+
+# Alignment
+AlignTrailingComments:
+  Kind: Always
+
+# Braces
+BreakBeforeBraces: Custom
+BraceWrapping:
+  AfterFunction: true
+  AfterClass: false
+  AfterStruct: false
+  AfterNamespace: false
+  AfterEnum: false
+  AfterUnion: false
+  AfterControlStatement: Never
+  BeforeElse: false
+  BeforeCatch: false

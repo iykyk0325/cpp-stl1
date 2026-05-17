@@ -1,5 +1,5 @@
 /*
-    예제 6-1. vector의 push_back()
+    예제 6-01. vector의 push_back()
 */
 #include <iostream>
 #include <vector>

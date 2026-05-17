@@ -1,5 +1,5 @@
 /*
-    예제 6-2. vector의 size_type
+    예제 6-02. vector의 size_type
 */
 #include <iostream>
 #include <vector>

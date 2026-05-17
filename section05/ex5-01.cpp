@@ -1,5 +1,5 @@
 /*
-    예제 5-1. vector 컨테이너
+    예제 5-01. vector 컨테이너
 */
 #include <iostream>
 #include <vector>

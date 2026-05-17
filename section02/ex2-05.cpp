@@ -1,5 +1,5 @@
 /*
-    예제 2-5. Point 클래스의 멤버 함수 포인터
+    예제 2-05. Point 클래스의 멤버 함수 포인터
 */
 #include <iostream>
 

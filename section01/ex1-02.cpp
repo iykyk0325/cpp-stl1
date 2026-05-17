@@ -1,5 +1,5 @@
 /*
-    예제 1-2. Point 객체의 + 연산
+    예제 1-02. Point 객체의 + 연산
 */
 #include <iostream>
 

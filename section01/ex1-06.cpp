@@ -1,5 +1,5 @@
 /*
-    예제 1-6. operator+() 함수 완성
+    예제 1-06. operator+() 함수 완성
 */
 #include <iostream>
 

@@ -1,5 +1,5 @@
 /*
-    예제 6-5. vector의 reserve()
+    예제 6-05. vector의 reserve()
 */
 #include <iostream>
 #include <vector>

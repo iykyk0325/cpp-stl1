@@ -1,5 +1,5 @@
 /*
-    예제 5-7. 함수 객체를 적용한 sort 알고리즘
+    예제 5-07. 함수 객체를 적용한 sort 알고리즘
 */
 #include <algorithm>
 #include <iostream>

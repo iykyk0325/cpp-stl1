@@ -1,5 +1,5 @@
 /*
-    예제 4-6. Swap() 템플릿 함수
+    예제 4-06. Swap() 템플릿 함수
 */
 #include <iostream>
 

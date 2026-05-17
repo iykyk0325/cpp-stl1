@@ -1,5 +1,5 @@
 /*
-    예제 3-6. STL의 less 함수 객체
+    예제 3-06. STL의 less 함수 객체
 */
 #include <functional>
 #include <iostream>

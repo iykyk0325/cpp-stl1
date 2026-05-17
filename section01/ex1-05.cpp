@@ -1,5 +1,5 @@
 /*
-    예제 1-5. operator+() 함수 구현
+    예제 1-05. operator+() 함수 구현
 */
 #include <iostream>
 

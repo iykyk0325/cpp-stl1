@@ -1,5 +1,5 @@
 /*
-    예제 5-8. stack 컨테이너
+    예제 5-08. stack 컨테이너
 */
 #include <iostream>
 #include <stack>

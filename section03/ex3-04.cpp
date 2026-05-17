@@ -1,5 +1,5 @@
 /*
-    예제 3-4. 함수 객체를 사용한 콜백 함수 구현
+    예제 3-04. 함수 객체를 사용한 콜백 함수 구현
 */
 #include <algorithm>
 #include <iostream>

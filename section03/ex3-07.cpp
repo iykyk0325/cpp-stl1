@@ -1,5 +1,5 @@
 /*
-    예제 3-7. Greater의 구현
+    예제 3-07. Greater의 구현
 */
 #include <functional>
 #include <iostream>

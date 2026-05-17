@@ -1,5 +1,5 @@
 /*
-    예제 6-8. vector의 resize()
+    예제 6-08. vector의 resize()
 */
 #include <iostream>
 #include <vector>

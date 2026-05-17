@@ -1,5 +1,5 @@
 /*
-    예제 5-3. vector의 임의 접근 반복자
+    예제 5-03. vector의 임의 접근 반복자
 */
 #include <iostream>
 #include <vector>

@@ -1,5 +1,5 @@
 /*
-    예제 5-9. vector 컨테이너를 적용한 stack 컨테이너
+    예제 5-09. vector 컨테이너를 적용한 stack 컨테이너
 */
 #include <iostream>
 #include <stack>

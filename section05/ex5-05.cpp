@@ -1,5 +1,5 @@
 /*
-    예제 5-5. find 알고리즘
+    예제 5-05. find 알고리즘
 */
 #include <algorithm>
 #include <iostream>

@@ -1,5 +1,5 @@
 /*
-    예제 2-2. 함수 포인터 선언과 사용
+    예제 2-02. 함수 포인터 선언과 사용
 */
 #include <cstdint>
 #include <iostream>

@@ -1,5 +1,5 @@
 /*
-    예제 6-4. vector의 capacity()
+    예제 6-04. vector의 capacity()
 */
 #include <iostream>
 #include <vector>

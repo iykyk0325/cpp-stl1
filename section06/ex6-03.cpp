@@ -1,5 +1,5 @@
 /*
-    예제 6-3. vector의 size(), capacity(), max_size()
+    예제 6-03. vector의 size(), capacity(), max_size()
 */
 #include <iostream>
 #include <vector>

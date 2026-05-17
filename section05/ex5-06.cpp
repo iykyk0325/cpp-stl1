@@ -1,5 +1,5 @@
 /*
-    예제 5-6. vector와 list 컨테이너의 반복자와 sort 알고리즘
+    예제 5-06. vector와 list 컨테이너의 반복자와 sort 알고리즘
 */
 #include <algorithm>
 #include <iostream>

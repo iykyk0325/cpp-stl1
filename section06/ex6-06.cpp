@@ -1,5 +1,5 @@
 /*
-    예제 6-6. vector의 생성자
+    예제 6-06. vector의 생성자
 */
 #include <iostream>
 #include <vector>

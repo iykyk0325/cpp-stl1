@@ -1,5 +1,5 @@
 /*
-    6-7. vector 생성자의 초기값 지정
+    6-07. vector 생성자의 초기값 지정
 */
 #include <iostream>
 #include <vector>

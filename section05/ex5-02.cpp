@@ -1,5 +1,5 @@
 /*
-    예제 5-2. vector의 반복자
+    예제 5-02. vector의 반복자
 */
 #include <iostream>
 #include <vector>

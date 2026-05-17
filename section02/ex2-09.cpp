@@ -1,5 +1,5 @@
 /*
-    예제 2-9. STL의 for_each 알고리즘 적용
+    예제 2-09. STL의 for_each 알고리즘 적용
 */
 #include <algorithm>
 #include <iostream>

@@ -1,5 +1,5 @@
 /*
-    예제 3-8. plus와 minus 함수 객체 구현
+    예제 3-08. plus와 minus 함수 객체 구현
 */
 #include <functional>
 #include <iostream>

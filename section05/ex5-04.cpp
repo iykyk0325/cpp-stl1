@@ -1,5 +1,5 @@
 /*
-    예제 5-4. deque의 임의 접근 반복자
+    예제 5-04. deque의 임의 접근 반복자
 */
 #include <deque>
 #include <iostream>

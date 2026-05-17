@@ -1,5 +1,5 @@
 /*
-    예제 6-9. vector의 clear()와 empty()
+    예제 6-09. vector의 clear()와 empty()
 */
 #include <iostream>
 #include <vector>
